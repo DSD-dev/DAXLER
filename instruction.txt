@@ -1,0 +1,32 @@
+{ RU }
+
+Что бы получить api id и api hash надо зайти на сайт https://my.telegram.org/apps
+
+Регестрируемся, создаем проект и получаем эти два элемента
+
+Как понять "имя группы"?
+Имя группы это то, как группа отображается у вас в телеграме (Например: у вас есть группа Идиоты) вы и вводите имя группы - Идиоты
+
+Если вы получили ошибку:
+RuntimeError: coroutine ignored GeneratorExit
+
+1)Перезапустите программу
+2)Удалите все сессии в Телеграме
+3)Убедитесь, что запущен только 1 скрипт
+
+
+
+{ END }
+
+To get the API ID and API hash, you need to go to the website https://my.telegram.org/apps Register, create a project, and obtain these two elements.
+
+How to understand "group name"?
+The group name is how the group is displayed in your Telegram (For example: if you have a group called "Idiots"), you enter the group name as - Idiots
+
+
+If you encountered the error:
+RuntimeError: coroutine ignored GeneratorExit
+
+1) Restart the program.
+2) Delete all sessions in Telegram.
+3) Ensure that only 1 script is running.
